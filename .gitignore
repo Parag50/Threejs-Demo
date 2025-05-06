@@ -1,0 +1,9 @@
+node_modules/
+dist/ or build/ (Vite default output is dist/)
+.env files
+logs
+npm-debug.log*
+yarn-error.log*
+.DS_Store (for macOS)
+coverage/ (if testing coverage is used)
+optionally, IDE/editor specific files like .vscode/
